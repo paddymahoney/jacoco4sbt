@@ -1,3 +1,5 @@
+.*
+!/.gitignore
 .idea
 .idea_modules
 target
@@ -17,3 +19,5 @@ tags
 .project
 .hg
 .hgtags
+.hgignore
+
