@@ -15,4 +15,3 @@ libraryDependencies ++= Seq(
   "org.jacoco" % "org.jacoco.report" % "0.6.2.201302030002" artifacts(Artifact("org.jacoco.report", "jar", "jar")))
    
 scalacOptions ++= Seq("-unchecked", "-deprecation", "-feature")
-
