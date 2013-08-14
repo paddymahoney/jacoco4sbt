@@ -1,0 +1,18 @@
+.idea
+.idea_modules
+target
+project/boot
+*.swp
+project.vim
+tags
+.lib
+*~
+*#
+.DS_Store
+.history
+.cache
+ .classpath
+ .settings/
+.gitignore
+.project
+
